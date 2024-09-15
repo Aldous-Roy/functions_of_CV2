@@ -21,3 +21,4 @@ The program performs the following operations on an input image:
 	5.	Dilation: Performs dilation on the original image and displays it.
 	6.	Erosion: Performs erosion on the original image and displays it.
 	7.	Resize: Resizes the image to a new dimension and displays it.
+kindly change the path according to your system so that it works perfectly
